@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Evanns Morales-Cuadrado",
+    "section": "",
+    "text": "Hello World!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "hello.html",
+    "href": "hello.html",
+    "title": "Hello",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "home.html",
+    "href": "home.html",
+    "title": "Welcome to My Research Page",
+    "section": "",
+    "text": "Hello World!"
+  },
+  {
+    "objectID": "more2.html",
+    "href": "more2.html",
+    "title": "More Stuff 2",
+    "section": "",
+    "text": "More Stuff 2"
+  },
+  {
+    "objectID": "4_blog.html",
+    "href": "4_blog.html",
+    "title": "Research Blog",
+    "section": "",
+    "text": "I hope to fill this section with explanatory pieces on important topics in the field of robotics/control systems theory. I find that if I write to explain to others I force myself to understand things more deeply. I also hope to cover things I wish had been explained to me in a particular manner, or just things I find interesting that are (maybe even just tangentially) related to my field."
+  },
+  {
+    "objectID": "3_publications.html",
+    "href": "3_publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "These are mt publications (even not so good ones from undergrad but you live and learn and grow)"
+  },
+  {
+    "objectID": "1_home.html",
+    "href": "1_home.html",
+    "title": "Welcome to My Research Page",
+    "section": "",
+    "text": "Hello World!"
+  },
+  {
+    "objectID": "5_about.html",
+    "href": "5_about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "This is my about me page."
+  },
+  {
+    "objectID": "more1.html",
+    "href": "more1.html",
+    "title": "More Stuff 1",
+    "section": "",
+    "text": "More Stuff 1"
+  },
+  {
+    "objectID": "2_cv.html",
+    "href": "2_cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "This is my CV"
+  }
+]

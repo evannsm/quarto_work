@@ -1,0 +1,63 @@
+website:
+  navbar:
+    background: primary
+    search: true
+    left:
+      - text: "Home"
+        href: index.qmd
+      - talks.qmd
+      - about.qmd 
+      
+      
+# project:
+#   type: website
+#   output-dir: docs
+#   resources: 
+#     - CNAME
+#     - presentations
+
+# website:
+#   title: "Evanns Morales-Cuadrado<br>
+#           Ph.D Student at Georgia Tech"
+
+#   navbar:
+#     left:
+#       - text: "Home"
+#         href: 1_home.qmd
+#   #     - text: "CV"
+#   #       href: 2_cv.qmd
+#   #     - text: "Publications"
+#   #       href: 3_publications.qmd
+#   #     - text: "Blog"
+#   #       href: 4_blog.qmd
+#   #     - text: "About"
+#   #       href: 5_about.qmd
+#   #     - text: "More"
+#   #       menu:
+#   #         - text: "More1"
+#   #           href: more1.qmd
+#   #         - text: "More2"
+#   #           href: more2.qmd
+#   #   tools:
+#   #     - icon: github
+#   #       href: https://github.com/evannsm
+#   #     - icon: linkedin
+#   #       href: https://www.linkedin.com/in/evanns-morales/
+
+    
+#   # sidebar:
+#   #   - title: "Blog"
+#   #     style: "docked"
+#   #     background: light
+#   #     contents:
+#   #       - blog.qmd
+#   #       - first_blogpost.qmd
+
+# format:
+#   html:
+#     theme: lux
+#     css: styles.css
+#     toc: true
+
+
+

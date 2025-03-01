@@ -1,0 +1,77 @@
+---
+title: "Quarto Authoring"
+author: "Evanns Morales"
+date: 'Feb 28, 2025'
+toc: True
+number-sections: true
+highlight-style: pygments
+bibliography: references.bib
+csl: ieee2.csl
+format:
+    html:
+        code-fold: true
+        html-math-method: katex
+    pdf:
+        geometry:
+            - top=30mm
+            - left=20mm
+    docx: default
+---
+
+[x]
+
+Einstein's theory of special relativity expresses the equivalence of mass and energy: \$E = mc\^{2}.
+
+::: callout-note
+Note that there are five types of callouts, including: `note`, `tip`, `warning`, `caution`, and `important`.
+:::
+
+## Overview
+
+See @fig-simple in @sec-plot2332_hi for a demonstration of a simple plot.
+
+See @eq-stddev to better understand standard deviation.
+
+## Plot {#sec-plot2332_hi}
+
+```{python}
+#| label: fig-simple
+#| fig-cap: "Simple Plot"
+import matplotlib.pyplot as plt
+plt.plot([1,23,2,4])
+plt.show()
+```
+
+## Equation {#sec-equation}
+
+$$
+s = \sqrt{\frac{1}{N-1} \sum_{i=1}^N (x_i - \overline{x})^2}
+$$ {#eq-stddev}
+
+## Overview
+
+Knuth says always be literate [@mypaper; @QN-KS:2016].
+
+```{python}
+1 + 1
+```
+
+## References
+
+## Colors
+
+-   Red
+-   Green
+-   Blue
+
+## Shapes
+
+-   Square
+-   Circle
+-   Triangle
+
+## Textures
+
+-   Smooth
+-   Bumby
+-   Fuzzy
